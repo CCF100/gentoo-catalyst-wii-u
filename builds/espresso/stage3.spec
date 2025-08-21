@@ -1,0 +1,12 @@
+subarch: espresso
+target: stage3
+version_stamp: systemd-20250816
+rel_type: espresso
+profile: default/linux/ppc/23.0/systemd
+snapshot_treeish: c0e55b4b532a610a791a7e6af86946013b911d0d
+source_subpath: espresso/stage1-espresso-systemd-20250816.tar.xz
+compression_mode: pixz
+portage_confdir: /var/tmp/catalyst/releng/releases/portage/stages-qemu
+portage_prefix: releng
+interpreter: /usr/bin/qemu-ppc
+repos: /var/db/repos/modified-gentoo-buildscripts

@@ -1,0 +1,15 @@
+[submodule "repos/gentoo.git"]
+	path = repos/gentoo.git
+	url = https://anongit.gentoo.org/git/repo/sync/gentoo.git
+	shallow = true
+[submodule "repos/modified-gentoo-buildscripts.git"]
+	path = repos/modified-gentoo-buildscripts.git
+	url = https://github.com/CCF100/modified-gentoo-buildscripts.git
+	shallow = true
+[submodule "linux-wiiu"]
+	path = linux-wiiu
+	url = https://gitlab.com/linux-wiiu/linux-wiiu.git
+	branch = rewrite-6.6-smp
+[submodule "releng"]
+	path = releng
+	url = "https://github.com/CCF100/releng-wiiu.git"
