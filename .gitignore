@@ -1,3 +1,6 @@
 snapshots/*.sqfs
 tmp/
 packages/**
+builds/espresso/powerpc-espresso-linux-gnu-stage3.tar
+repos/**
+snapshots/*.lock

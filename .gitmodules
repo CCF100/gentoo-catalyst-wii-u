@@ -12,4 +12,4 @@
 	branch = rewrite-6.6-smp
 [submodule "releng"]
 	path = releng
-	url = "https://github.com/CCF100/releng-wiiu.git"
+	url = https://github.com/CCF100/releng-wiiu.git
